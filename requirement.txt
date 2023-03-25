@@ -1,0 +1,6 @@
+win32api
+pywinauto
+undetected_chromedriver
+pandas
+numpy
+selenium
